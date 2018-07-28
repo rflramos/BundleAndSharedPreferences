@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BundleAndSharedPreferences</string>
+    <string name="title_activity_recuperando_dados_bundle">RecuperandoDadosBundle</string>
+</resources>
